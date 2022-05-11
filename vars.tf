@@ -1,6 +1,6 @@
 variable "name" {
     type = string
-    default = "my-environment"
+    default = "my-online-id"
     description = "The name of created AWS Cloud9 environment"
 }
 variable "instance_type" {
